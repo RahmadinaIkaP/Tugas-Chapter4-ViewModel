@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Tugas_ViewModel_NavigationComponent</string>
+
+    <!--  Isi berita  -->
+    <string name="isi_berita1">
+        Hotman Paris mengaku dirinya pernah mendapatkan tawaran untuk menangani kasus pembunuhan yang diduga dilakukan oleh Ferdy Sambo.
+        Namun ia menolaknya. Bukan karena tingkat kesulitan kasusnya, tawaran itu ditolak Hotman Paris lantaran dirinya sedang membela banyak kasus lain yang tidak kalah penting.
+        Sebagai pengacara, Hotman Paris menyebut Ferdy Sambo sudah pasti dikenakan pasal terkait pembunuhan. "Pembunuhannya sudah diakui, berarti sudah kena," kata Hotman Paris dikutip dari channel Trans TV di YouTube, Selasa (13/9/2022).
+        Sebelumnya, Ferdy Sambo disebut-sebut bisa juga dikenakan pasal pembunuhan berencana. Namun menurut Hotman Paris hal tersebut belum tentu terjadi.
+        Hotman Paris menjelaskan mengenai hukuman yang mungkin saja diterima oleh Ferdy Sambo dilihat dari pasal yang menjeratnya.
+        "Kalau (pembunuhan) spontan, maksimal hukumannya 20 tahun," beber Hotman Paris.
+        Pada kesempatan yang sama, Hotman Paris juga mengatakan alasan dirinya menolak menjadi pengacara Ferdy Sambo.
+    </string>
+
+    <string name="isi_berita2">
+        Tahun ini, hari raya Chuseok yang dirayakan di Korea Selatan jatuh pada Sabtu (10/9/2022).
+        Sudah jadi tradisi, saat hari raya ini datang, para idol K-Pop mengucapkan selamat kepada publik.
+        Tak jarang mereka mengenakan baju tradisional Korea, Hanbok. Salah satunya, adalah NewJeans.
+        Sejak 6 September lalu, NewJeans sudah mulai membagikan foto mereka dalam hanbok.
+        Kelimanya tampil dengan hanbok nuansa pastel dipaduk rok atau atasan putih dan gaya rambut serupa,
+        dikepang satu dengan belahan rambut tengah, sebagian dari mereka mengenakan hiasan rambut tradisional Korea.
+    </string>
+
+    <string name="isi_berita3">
+        Mengawali pekan ini, pergerakan pasar kripto kembali terlihat cerah, pada Senin (12/9/2022) siang.
+        Sejak akhir pekan lalu, perlahan tapi pasti, market terus reli panjang, meski banyak ancaman sentimen negatif di depan.
+        Kembalinya market kripto ke zona hijau pada akhir pekan lalu, disebabkan investor yang mulai optimis dengan market bisa membawa keuntungan dalam jangka pendek.
+        Hal itu bisa dilihat dari indeks dolar AS (DXY) yang masih melemah pagi ini berada di posisi 108,63 (-0,34 persen).
+        Trader Tokocrypto, Afid Sugiono mengungkapkan, kabar kenaikan suku bunga Bank Sentral Eropa sebesar 75 basis poin justru membuat investor semangat masuk pasar,
+        karena keyakinan mereka inflasi bisa segera turun di Benua Biru itu.
+    </string>
+
+    <string name="isi_berita4">
+        Penyedia jasa transportasi jip wisata Taman Nasional Bromo Tengger Semeru (TNBTS) menaikkan tarif seiring kebijakan naiknya harga bahan bakar minyak (BBM).
+        Ketua 1 Paguyuban Jip Bromo Tengger Semeru Trans (BTS Trans) Wilda Angga mengatakan, naiknya tarif senilai 100.000 per paket wisata.
+        Sebelumnya, harga paket jip wisata Bromo adalah sebesar Rp 750.000 yang kini naik menjadi Rp 850.000.
+        Kenaikan itu disepakati setelah adanya kenaikan BBM. Sebab menurut Wilda, biaya konsumsi bahan bakar jip menjadi naik hingga sekitar 30 persen per paket.
+    </string>
+
+    <string name="isi_berita5">
+        Tepat pada 13 September, Yeonjun TXT menerima hadiah besar dari penggemarnya untuk momen perayaan hari ulang tahunnya.
+        Atas hal ini, penggemar berbondong-bondong merayakannya dengan cara masing-masing yang meriah dan menyenangkan.
+        Pada Selasa (13/9), member tertua dari grup TXT ini menerima hadiah yang tak terlupakan dari para penggemarnya di hari ulang tahunnya.
+        Fan N Star merilis foto acara ulang tahun Yeonjun yang diiklankan di papan elektronik Shin-Okubo di Shinjuku, Tokyo.
+        Berdasarkan informasi yang beredar, iklan ulang tahun Yeonjun akan terpampang di papan reklame sejak 12 hingga 18 September.
+        Iklan tersebut akan mengiasi kawasan Shin-Okubo di Shinjuku, Tokyo-Jepang dan poster digital CGV di Gangnam, Gangnam-gu, Seoul.
+    </string>
+
+    <string name="isi_berita6">
+        Istana Buckingham mengumumkan Ratu Elizabeth II pada Kamis (8/9). Sehari setelah Sang Ratu meninggal, gerimis telah membasahi Inggris hingga memunculkan pelangi.
+        Pelangi itu tampak di dekat Istana Windsor, tempat tinggal Sang Ratu, dan Istana Buckingham.
+        Momen itu berhasil diabadikan, foto-foto ini lalu menyebar di media.
+        Dalam foto itu terlihat Kastil Windsor mengibarkan bendera setengah tiang, untuk menghormati jasa Elizabeth kepada negara.
+        Tepat di sebelahnya muncul pelangi.
+        Sementara itu, sejumlah pengunjung dan kontributor media yang berada di sekitar Istana Buckingham melihat pelangi di atas kastel tersebut.
+        Istana Windsor berada tak jauh dari Istana Buckingham.
+    </string>
+
+    <string name="isi_berita7">
+        Unjuk rasa menolak kenaikan BBM di Patung Kuda diwarnai kericuhan jelang malam.
+        Massa dari sejumlah elemen masyarakat bergabung dalam satu sisi jalan untuk mencoba menjebol batas pengaman.
+        Pantauan CNNIndonesia.com di lokasi massa mulai ricuh dengan membongkar lapisan pertama kawat berduri.
+        Mereka juga meneriakkan "Buka! Buka! Buka!" sambil terus menarik kawat berduri.
+        Selain itu, beberapa botol air kemasan tampak dilempar ke arah aparat kepolisian.
+        Massa juga sempat membakar pembatas jalan yang diletakkan di tengah kawat berduri.
+        Hingga pukul 18.05 WIB, massa dari berbagai elemen terpantau masih berada di Patung Kuda dan menuntut untuk membuka batas agar dapat menuju Istana Negara.
+        Sementara itu, polisi telah beberapa kali memberi imbauan kepada massa agar membubarkan diri karena waktu telah melampaui batas aturan.
+    </string>
+
+    <string name="isi_berita8">
+        Indonesia kembali mengirim perwakilan untuk kategori The International Feature Film Award (Penghargaan Film Fitur Internasional) di ajang Oscar 2023.
+        Film Ngeri-Ngeri Sedap dipilih buat mewakili Indonesia.
+        Bangga! Ngeri-Ngeri Sedap jadi film berlatar budaya Batak pertama yang akan berlaga di kompetisi ini.
+        Ditulis dan disutradarai oleh Bene Dion Rajagukguk, film Ngeri-Ngeri Sedap berkisah tentang kehidupan sebuah keluarga yang mengalami disrupsi dalam kehidupan modern.
+        Ngeri-Ngeri Sedap dibintangi oleh Arswendy Beningswara Nasution, Tika Panggabean, Boris Bokir Manullang, Gita Bhebhita Butar-butar, Lolox, dan Indra Jegel.
+        Ditayangkan tengah tahun 2022 ini, Ngeri-Ngeri Sedap berhasil jadi salah satu box office film Indonesia dengan perolehan lebih dari 3 juta penonton.
+    </string>
+
+    <string name="isi_berita9">
+        NCTZen, sudah siap bertemu NCT 127 belum? Taeyong Cs bakal menyapa fans di Indonesia lewat konser bertajuk NCT 127 2nd Tour NEO CITY: Jakarta - The Link pada 5 November 2022.
+        Konser tersebut rencananya akan digelar di Indonesia Convention Exhibition (ICE) BSD mulai pukul 14.00 WIB.
+        Dyandra Global Entertainment, sebagai promotor, akhirnya merilis daftar harga tiket beserta kelas-kelasnya.
+        Tiket dijual mulai Rp 1.045 juta hingga yang termahal Rp 2,9 juta. Ada 6 kategori pembagian tiket yang bisa dipilih oleh fans.
+        Berikut daftar harga tiket selengkapnya:\n
+        CAT 1A - 1B (Standing): Rp 2.970.000\n
+        CAT 1C - 1D (Standing): Rp 2.970.000\n
+        CAT 2 (Seated): Rp 2.640.000\n
+        CAT 3A - 3B (Standing): Rp 1.815.000\n
+        CAT 4 (Seated): Rp 1.595.000\n
+        CAT 5A - 5B: Rp 1.045.000\n
+    </string>
+
+    <string name="isi_berita10">
+        Pemerintah membentuk tim khusus untuk menjaga keamanan data.
+        Tim khusus ini dibentuk usai heboh serangan hacker Bjorka.
+        Menkominfo Johnny G. Plate menyebutnya sebagai "emergency response team".
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
